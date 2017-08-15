@@ -1,0 +1,51 @@
+@import url("components/card.css");
+body {
+    background: rgba(78, 82, 192, 0.5);
+}
+
+.btn {
+    margin-top: 10px;
+    height: 30px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+}
+
+a.btn-left {
+    background-color: rgba(78, 82, 192, 0.3);
+    border: 0 none;
+    display: inline-block;
+    width: 60px;
+}
+
+a.btn-right {
+    background-color: rgba(78, 82, 192, 0.3);
+    border: 0 none;
+    width: 76px;
+    padding-left: 2px;
+}
+
+.btn-div {
+    position: absolute;
+    margin: auto;
+    margin-left: 85px;
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#summary {
+    text-align: center;
+    margin-top: 23px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.centre-block {
+    margin-top: 10px;
+}
+
+#appHeader {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    margin-top: 20px;
+}
